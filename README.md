@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Cristian Meneses
 
-<!--
-**Cfelipe23/Cfelipe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy desarrollador de software con interés en el aprendizaje continuo, la resolución de problemas y la creación de soluciones prácticas usando tecnología.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Actualmente me estoy formando en desarrollo de software.
+- 🧠 Me interesan áreas como desarrollo web, lógica de programación, y el pentesting 
+- 🔍 Siempre estoy explorando nuevas herramientas y tecnologías para mejorar mis habilidades.
+- 🌱 Aprendiendo constantemente sobre **JavaScript, PHP, React, y Java**.
+- 🛠️ Me gusta trabajar en proyectos personales y educativos que me permitan aplicar lo aprendido.
+
+## 🛠 Tecnologías y herramientas
+
+- Lenguajes: `JavaScript`, `PHP`, `HTML`, `CSS`
+- Frameworks: `React`, `Bootstrap`
+- Bases de datos: `MySQL`
+- Herramientas: `Git`, `Visual Studio Code`, `XAMPP`, `Figma`
+
+## 📈 Estadísticas
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=default)](https://github.com/TU_USUARIO_AQUI)
+
+## 📫 Cómo contactarme
+
+- 📧 Email: 
+- 💼 LinkedIn: 
