@@ -19,7 +19,7 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador de software con interés en 
 
 ## 📈 Estadísticas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=default)](https://github.com/TU_USUARIO_AQUI)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=default)](https://github.com/Cfelipe23)
 
 ## 📫 Cómo contactarme
 
