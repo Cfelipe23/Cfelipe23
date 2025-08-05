@@ -2,15 +2,7 @@
 <p align="center">🧑‍💻 Desarrollador en formación constante | Aficionado a todo el ecosistema del ciberespacio </p>
 
 ---
-
-### 🧾 Sobre mí
-
-- 🎓 Soy bachiller con especialidad en **Desarrollo de Software** y tambien un técnico en **Programación de Software**..
-- 📘 Actualmente curso un tecnólogo en Desarrollo de Software, ampliando mis conocimientos ...
-- 💡 Me gusta resolver problemas y encontrar soluciones funcionales a través del código (como Neo viendo la matrix).
-- 🐧 Me siento cómodo explorando herramientas tanto en entornos **Windows** como **Linux**.
 - 📚 Siempre estoy buscando mejorar mis habilidades recibiendo retroalimentación.
-
 ---
 
 ### 🛠️ Tecnologías y herramientas
